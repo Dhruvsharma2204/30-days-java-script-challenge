@@ -1,6 +1,8 @@
-/*var a=5;
+// Activity-1 -> Declaring variables
+var a=5;
 console.log(a);
-let str ="chal be chamiye";
+// using let
+let str ="Hey there";
 console.log(str);
 
 function varTest() {
@@ -24,9 +26,9 @@ var a = 10;
 console.log(ajex);
 
 var num =8;
-var string = "hello chaman";
+var string = "hello chadan";
 const bool = true;
-var object = { key:"tmc"};
+var object = { key:"ABC"};
 var undefinedvar = 45;
 const array=[1,2,3];
 
@@ -45,7 +47,7 @@ console.log(x);
  bool = false;
  console.log(bool);*/
 
-/*
+
  // Example with let
 let variableLet = 'Initial value with let';
 console.log('let before reassignment:', variableLet);
@@ -82,26 +84,8 @@ try {
 } catch (error) {
     console.log('Outside block - const:', error.message);
 }
-*/
-/*
 
 
-// Declaring variables of different data types
-let numberVar = 42;                    // Number
-let stringVar = "Hello, world!";       // String
-let booleanVar = true;                 // Boolean
-let objectVar = { name: "Alice", age: 25 }; // Object
-let arrayVar = [1, 2, 3, 4, 5];       // Array (also an object)
-let nullVar = null;                    // Null
-let undefinedVar;                      // Undefined
-
-// Logging values and types to the console
-console.log(`Value: ${numberVar}, Type: ${typeof numberVar}`);
-console.log(`Value: ${stringVar}, Type: ${typeof stringVar}`);
-console.log(`Value: ${booleanVar}, Type: ${typeof booleanVar}`);
-console.log(`Value: ${JSON.stringify(objectVar)}, Type: ${typeof objectVar}`);
-console.log(`Value: ${JSON.stringify(arrayVar)}, Type: ${typeof arrayVar}`);
-console.log(`Value: ${nullVar}, Type: ${typeof nullVar}`);
 console.log(`Value: ${undefinedVar}, Type: ${typeof undefinedVar}`);*/
 
 
